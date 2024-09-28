@@ -9,7 +9,7 @@
 <body>
     <header>
     <div class="logo">
-<img src="img/logoli.jfif" alt="logo">
+<img src="img/descarga (1).jfif" alt="logo">
 <h1>  C.R.A CENTRO DE RECURSO PARA EL APRENDIZAJE</h1>
     </div>
     <div class="barra-menu">

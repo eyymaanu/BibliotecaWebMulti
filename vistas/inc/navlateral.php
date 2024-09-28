@@ -16,16 +16,16 @@
 						</li>
 
 						<li>
-							<a href="#" class="nav-btn-submenu"><i class="fas fa-users fa-fw"></i> &nbsp;Usuarios<i class="fas fa-chevron-down"></i></a>
+							<a href="#" class="nav-btn-submenu"><i class="fas fa-users fa-fw"></i> &nbsp;Alunmnos<i class="fas fa-chevron-down"></i></a>
 							<ul>
 								<li>
-									<a href="<?php echo SERVERURL; ?>./client-new/"><i class="fas fa-plus fa-fw"></i> &nbsp; Agregar Usuario</a>
+									<a href="<?php echo SERVERURL; ?>./client-new/"><i class="fas fa-plus fa-fw"></i> &nbsp; Agregar Alumno</a>
 								</li>
 								<li>
-									<a href="<?php echo SERVERURL ;?>./client-list/"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Lista de Usuarios</a>
+									<a href="<?php echo SERVERURL ;?>./client-list/"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Lista de Alumnos</a>
 								</li>
 								<li>
-									<a href="<?php echo SERVERURL ;?>./client-search/"><i class="fas fa-search fa-fw"></i> &nbsp; Buscar Usuario</a>
+									<a href="<?php echo SERVERURL ;?>./client-search/"><i class="fas fa-search fa-fw"></i> &nbsp; Buscar Alumnos</a>
 								</li>
 							</ul>
 						</li>

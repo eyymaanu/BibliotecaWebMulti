@@ -1,7 +1,7 @@
 <!-- Page header -->
 <div class="full-box page-header">
 				<h3 class="text-left">
-					<i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR CLIENTE
+					<i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR ALUMNO
 				</h3>
 				<p class="text-justify">
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit nostrum rerum animi natus beatae ex. Culpa blanditiis tempore amet alias placeat, obcaecati quaerat ullam, sunt est, odio aut veniam ratione.
@@ -11,13 +11,13 @@
 			<div class="container-fluid">
 				<ul class="full-box list-unstyled page-nav-tabs">
 					<li>
-						<a href="<?php echo SERVERURL ;?>./client-new/"><i class="fas fa-plus fa-fw"></i> &nbsp; AGREGAR CLIENTE</a>
+						<a href="<?php echo SERVERURL ;?>./client-new/"><i class="fas fa-plus fa-fw"></i> &nbsp; AGREGAR ALUMNO</a>
 					</li>
 					<li>
-						<a href="<?php echo SERVERURL ;?>./client-list/"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; LISTA DE CLIENTES</a>
+						<a href="<?php echo SERVERURL ;?>./client-list/"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; LISTA DE ALUMNO</a>
 					</li>
 					<li>
-						<a class="active" href="<?php echo SERVERURL ;?>./client-search/"><i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR CLIENTE</a>
+						<a class="active" href="<?php echo SERVERURL ;?>./client-search/"><i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR ALUMNO</a>
 					</li>
 				</ul>	
 			</div>
@@ -29,7 +29,7 @@
 						<div class="row justify-content-md-center">
 							<div class="col-12 col-md-6">
 								<div class="form-group">
-									<label for="inputSearch" class="bmd-label-floating">¿Qué cliente estas buscando?</label>
+									<label for="inputSearch" class="bmd-label-floating">¿Qué ALUMNO estas buscando?</label>
 									<input type="text" class="form-control" name="busqueda-" id="inputSearch" maxlength="30">
 								</div>
 							</div>
@@ -106,8 +106,8 @@
 							<tr class="text-center" >
 								<td>2</td>
 								<td>012342567</td>
-								<td>NOMBRE DEL CLIENTE</td>
-								<td>APELLIDO DEL CLIENTE</td>
+								<td>NOMBRE DEL ALUMNO</td>
+								<td>APELLIDO DEL ALUMNO</td>
 								<td>72349874</td>
 								<td>
 									<button type="button" class="btn btn-info" data-toggle="popover" data-trigger="hover" title="Nombre del cliente" data-content="Direccion completa del cliente">
@@ -130,8 +130,8 @@
 							<tr class="text-center" >
 								<td>3</td>
 								<td>012342567</td>
-								<td>NOMBRE DEL CLIENTE</td>
-								<td>APELLIDO DEL CLIENTE</td>
+								<td>NOMBRE DEL ALUMNO</td>
+								<td>APELLIDO DEL ALUMNO</td>
 								<td>72349874</td>
 								<td>
 									<button type="button" class="btn btn-info" data-toggle="popover" data-trigger="hover" title="Nombre del cliente" data-content="Direccion completa del cliente">
@@ -154,8 +154,8 @@
 							<tr class="text-center" >
 								<td>4</td>
 								<td>012342567</td>
-								<td>NOMBRE DEL CLIENTE</td>
-								<td>APELLIDO DEL CLIENTE</td>
+								<td>NOMBRE DEL ALUMNO</td>
+								<td>APELLIDO DEL ALUMNO</td>
 								<td>72349874</td>
 								<td>
 									<button type="button" class="btn btn-info" data-toggle="popover" data-trigger="hover" title="Nombre del cliente" data-content="Direccion completa del cliente">

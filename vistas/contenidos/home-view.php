@@ -11,7 +11,7 @@
 			<!-- Content -->
 			<div class="full-box tile-container">
 				<a href="<?php echo SERVERURL ;?>./client-new/" class="tile">
-					<div class="tile-tittle">Clientes</div>
+					<div class="tile-tittle">Alummnos</div>
 					<div class="tile-icon">
 						<i class="fas fa-users fa-fw"></i>
 						<p>5 Registrados</p>
